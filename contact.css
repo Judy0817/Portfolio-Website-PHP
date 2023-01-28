@@ -1,0 +1,53 @@
+.text{
+    color: #fff;
+    margin-left:20%;
+    margin-right: 20%;
+}
+
+.container{
+    background: none;
+    width:50%;
+    height: auto;
+    font-size: 100%;
+}
+
+.container .contactInfo {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+.container .contactInfo .box {
+    position: relative;
+    padding: 20px 0;
+    display: flex;
+    width:100%;
+    margin-left:20%;
+    margin-right: 20%;
+}
+
+.container .contactInfo .box .icon {
+    min-width: 60px;
+    height: 60px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+}
+
+.container .contactInfo .box .text {
+    display: flex;
+    margin-left: 20px;
+    font-size: 16px;
+    color: #fff;
+    flex-direction: column;
+    font-weight: 300;
+}
+
+.container .contactInfo .box .text h3 {
+    font-weight: 500;
+    color: #00bcd4;
+}
