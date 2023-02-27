@@ -8,4 +8,8 @@
 .myphoto {
     padding-top: 6%;
     padding-bottom: 10%;
+  
+}
+.img-responsive{
+    border-radius: 50%;
 }

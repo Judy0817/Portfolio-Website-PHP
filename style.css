@@ -4,7 +4,7 @@
 
 .navbar-nav a {
     font-size: 15px;
-    text-transform: uppercase;
+    text-transform:lowercase;
     font-weight: 800;
 
 }
@@ -19,13 +19,9 @@
 }
 
 body {
-    background: url('https://mdbcdn.b-cdn.net/img/new/slides/003.webp') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background-image: url("Photos/003.webp");
+  }
 
-}
 
 
 

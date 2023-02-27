@@ -1,52 +1,21 @@
+<?php require_once('header.php') ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index</title>
+    <title>Contact</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="contact.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css" integrity="sha384-QYIZto+st3yW+o8+5OHfT6S482Zsvz2WfOzpFSXMF9zqeLcFV0/wlZpMtyFcZALm" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="contact.css">
-
+  
 </head>
 <body>
-    
 
-<header>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
-          <img src="Photos/MyselfLogo.png" alt="Bootstrap"  width="70" height="50">
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <div class="navbar-nav ms-auto  mb-2 mb-lg-0">
-              
-              <div class="nav-item ">
-                <a class="nav-link" href="index.html">Myself</a>
-              </div>
-              <div class="nav-item">
-                <a class="nav-link" href="education.html">Education</a>
-              </div>
-              <div class="nav-item">
-                <a class="nav-link" href="project.html">Project</a>
-              </div>
-              <div class="nav-item">
-                <a class="nav-link active" aria-current="page" href="contact.html">Contact</a>
-              </div>
-              <div class="nav-item">
-                <a class="nav-link" href="interest.html">Interest</a>
-              </div>
-              
-            
-            </div>
-          </div>
-        </div>
-      </nav>
-</header>
 
 <div class ="text">
   <section class="mb-4">
@@ -74,7 +43,7 @@
           <p>No. 46/A West,<br>Palangathura<br>Kochchikade</p>
         </div>
       </div>
-       >
+       
     </div>
 
     <div class="box ">
